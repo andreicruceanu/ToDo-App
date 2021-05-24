@@ -1,0 +1,30 @@
+.titlu-proiect {
+    margin-top: 25px;
+    text-align: center;
+}
+.adauga_obiective {
+    margin: 35px;
+}
+.form-group input {
+    margin-bottom: 20px;
+}
+
+.obiective {
+   margin: 35px;
+   display: flex;
+   justify-content: space-between;
+}
+.card {
+    flex-basis: 31%;
+}
+.card ul li:hover {
+    background-color: rgba(0,0,0,0.2);
+    cursor: pointer;
+}
+.card-header {
+    padding: 18px 0;
+}
+.card-header h2 {
+    font-size: 24px;
+    text-align: center;
+}
